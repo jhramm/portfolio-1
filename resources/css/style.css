@@ -60,7 +60,7 @@ a {
 a:hover {
     color: blue;
     text-decoration: underline;
-    font-size: larger;
+    font-size: 17px;
 }
 
 #about-container {
