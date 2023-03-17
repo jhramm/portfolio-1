@@ -57,7 +57,8 @@ a {
 }
 
 .about-text-container h2,
-.projects-text-container h2 {
+.projects-text-container h2,
+#skills h2 {
     text-decoration-line: underline;
     text-underline-offset: 5px;
     text-decoration-color: blue;
