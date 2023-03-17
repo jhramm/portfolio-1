@@ -20,3 +20,4 @@ function updateText() {
   }
   setTimeout(updateText, 600);
 }
+
